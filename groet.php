@@ -1,7 +1,7 @@
 <?php
 echo "hoi gebruiker!\n";
  $a = readline();
- echo $a;
+ echo ("De gebruiker zegt:". "". $a);
 
 
 
